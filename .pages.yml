@@ -1,0 +1,75 @@
+# Administration sans code : https://pagescms.org (connexion GitHub, gratuit).
+# Ouvre le dépôt dans Pages CMS : les fichiers ci-dessous deviennent des formulaires.
+media:
+  input: public/img
+  output: /img
+content:
+  - name: site
+    label: Réglages du site
+    type: file
+    path: content/site.json
+    format: json
+    fields:
+      - { name: contact, label: Contacts publics, type: object, fields: [
+          { name: email, label: E-mail de l'association, type: string },
+          { name: instagram, label: Lien Instagram, type: string },
+          { name: linkedin, label: Lien LinkedIn (laisser vide si aucun), type: string } ] }
+      - name: flags
+        label: Interrupteurs
+        type: object
+        fields:
+          - { name: support, label: Page « Nous soutenir », type: object, fields: [
+              { name: enabled, label: Activer la page, type: boolean },
+              { name: helloassoUrl, label: Lien HelloAsso, type: string } ] }
+          - { name: forms, label: Formulaire de contact, type: object, fields: [
+              { name: enabled, label: Activer le formulaire, type: boolean },
+              { name: endpoint, label: Adresse du service de formulaire, type: string } ] }
+  - name: partners
+    label: Partenaires
+    type: file
+    path: content/partners.json
+    format: json
+    fields:
+      - { name: intro, label: Introduction, type: text }
+      - name: partners
+        label: Liste des partenaires
+        type: object
+        list: true
+        fields:
+          - { name: name, label: Nom, type: string }
+          - { name: role, label: Rôle, type: string }
+          - { name: text, label: Présentation, type: text }
+          - { name: url, label: Site web, type: string }
+          - { name: logo, label: Fichier du logo (dans public/logos), type: string }
+          - { name: validated, label: Texte validé par le partenaire, type: boolean }
+  - name: history
+    label: Histoire
+    type: file
+    path: content/history.json
+    format: json
+    fields:
+      - { name: intro, label: Introduction, type: text }
+      - name: timeline
+        label: Frise
+        type: object
+        list: true
+        fields:
+          - { name: date, label: Date, type: string }
+          - { name: title, label: Titre, type: string }
+          - { name: text, label: Texte, type: text }
+          - { name: status, label: Statut, type: select, options: { values: [fait, objectif] } }
+  - name: teams
+    label: Équipes
+    type: file
+    path: content/teams.json
+    format: json
+  - name: home
+    label: Accueil
+    type: file
+    path: content/home.json
+    format: json
+  - name: support
+    label: Nous soutenir
+    type: file
+    path: content/support.json
+    format: json

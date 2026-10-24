@@ -1,0 +1,31 @@
+{
+  "name": "SMAL & CO",
+  "legalName": "SMAL",
+  "signature": "Créer pour oser",
+  "locale": "fr-FR",
+  "description": "SMAL & CO est une association sportive brestoise : une équipe cycliste affiliée à la FFC, une section running et trail, et un studio de contenus. Créer pour oser.",
+  "contact": {
+    "email": "smal.partner@gmail.com",
+    "instagram": "https://www.instagram.com/smal__co/",
+    "instagramHandle": "@smal__co",
+    "linkedinHandle": "smal__co",
+    "linkedin": null,
+    "president": {
+      "name": "Matthieu Bruno",
+      "role": "Co-fondateur et Président",
+      "email": "matthieu.bruno29@gmail.com",
+      "phone": "07 67 52 59 18"
+    }
+  },
+  "flags": {
+    "support": { "enabled": false, "helloassoUrl": null },
+    "forms": { "enabled": false, "endpoint": null }
+  },
+  "legal": {
+    "headquarters": "2 rue Notre-Dame de Bonne Nouvelle, 29200 Brest",
+    "rna": null,
+    "siret": null,
+    "publicationDirector": "Matthieu Bruno, Président",
+    "host": "GitHub Pages — GitHub, Inc., 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107, États-Unis"
+  }
+}

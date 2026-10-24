@@ -1,0 +1,37 @@
+{
+  "hero": {
+    "eyebrow": "Association sportive · Brest, Bretagne",
+    "title": ["Créer", "pour oser."],
+    "lead": "Une équipe cycliste affiliée à la FFC, une section running et trail en construction, et un studio de contenus qui raconte les deux. Née entre amis, bâtie pour durer."
+  },
+  "ribbon": ["Cyclisme", "Running", "Trail", "Contenus", "Événements", "Brest", "Bretagne"],
+  "manifesto": "Nous sommes quatre amis qui voulions rouler, courir et raconter ce que ça fait. Nous construisons une vraie structure sportive : un collectif qui performe, une communauté qui se retrouve, des histoires bien filmées.",
+  "poles": [
+    { "id": "cyclisme", "title": "Cyclisme", "text": "Notre sport de prédilection. Une équipe affiliée à la FFC, des social rides ouverts à tous, et la saison 2027 en ligne de mire.", "href": "/cyclisme/", "image": "team-studio", "alt": "L'équipe cycliste SMAL & CO en maillot violet, posée en studio" },
+    { "id": "running", "title": "Running & trail", "text": "Une section qui démarre avec ses premiers coureurs. L'ambition : un collectif identifiable, humain et performant à l'échelle régionale.", "href": "/running/", "image": "run-group", "alt": "Quatre membres de SMAL & CO réunis après une course" },
+    { "id": "contenus", "title": "Contenus", "text": "Reels, récits de course, captations : nous documentons nos athlètes et, sur prestation, des épreuves cyclistes.", "href": "/histoire/", "image": "studio-solo", "alt": "Coureur SMAL & CO en maillot violet dans une lumière violette" }
+  ],
+  "numbers": [
+    { "value": 15, "suffix": "", "label": "coureurs cyclistes, dont 11 réguliers" },
+    { "value": 9, "suffix": "", "label": "social rides organisés depuis Hobby Cycles, Brest" },
+    { "value": 50, "suffix": "", "label": "participants en moyenne par sortie, jusqu'à 70" },
+    { "text": "16 sept. 2026", "label": "affiliation à la Fédération Française de Cyclisme" }
+  ],
+  "values": [
+    { "title": "Performance", "text": "Progresser seul et ensemble, viser haut, se mesurer." },
+    { "title": "Collectif", "text": "L'amitié d'abord. L'entraide ensuite. Les résultats suivent." },
+    { "title": "Audace", "text": "Lancer, tester, recommencer. Sortir du cadre." },
+    { "title": "Communication", "text": "Raconter les athlètes et les partenaires avec exigence." },
+    { "title": "Ancrage", "text": "Brest et la Bretagne, avec les acteurs locaux." },
+    { "title": "Durabilité", "text": "Des partenaires fidèles et des projets qui financent la suite." }
+  ],
+  "gallery": [
+    { "image": "road-peloton", "alt": "Peloton SMAL & CO sur la route" },
+    { "image": "team-beach", "alt": "Sept coureurs SMAL & CO alignés sur le littoral" },
+    { "image": "run-310", "alt": "Coureur SMAL & CO sur un marathon" },
+    { "image": "team-flag", "alt": "L'équipe posant avec le drapeau SMAL" },
+    { "image": "road-bend", "alt": "Virage en groupe sur une route de campagne" },
+    { "image": "run-bw-group", "alt": "Groupe de coureurs en noir et blanc, maillots en main" },
+    { "image": "team-wall", "alt": "Coureurs SMAL & CO en portrait de studio" }
+  ]
+}

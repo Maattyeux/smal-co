@@ -1,0 +1,15 @@
+{
+  "title": "Nous soutenir",
+  "lead": "Chaque soutien finance du concret : une inscription, un trajet, un maillot, un rendez-vous de plus.",
+  "uses": [
+    { "title": "Compétitions", "text": "Licences, engagements et frais de course." },
+    { "title": "Déplacements", "text": "Trajets et hébergements pour courir loin de Brest." },
+    { "title": "Équipement", "text": "Tenues et matériel aux couleurs de l'association." },
+    { "title": "Événements", "text": "Social rides et rendez-vous ouverts à la communauté." }
+  ],
+  "ways": [
+    { "title": "Faire un don", "text": "Un don en ligne, sécurisé, sans engagement de durée.", "action": "donate" },
+    { "title": "Devenir partenaire", "text": "Entreprises et commerces : construisons une visibilité utile aux deux parties.", "action": "partner" },
+    { "title": "Rejoindre l'équipe", "text": "Coureur, bénévole ou créateur de contenus : il y a une place pour vous.", "action": "join" }
+  ]
+}

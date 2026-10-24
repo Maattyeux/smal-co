@@ -1,0 +1,41 @@
+{
+  "cyclisme": {
+    "title": "Cyclisme",
+    "lead": "Le premier pôle de SMAL & CO, et sa vitrine. Une équipe affiliée à la FFC, un maillot reconnaissable, une communauté qui roule avec nous.",
+    "facts": [
+      { "label": "Affiliation FFC", "value": "16 septembre 2026" },
+      { "label": "Effectif", "value": "15 coureurs, dont 11 réguliers" },
+      { "label": "Catégories", "value": "Open" },
+      { "label": "Objectif", "value": "Saison de compétition 2027" }
+    ],
+    "paragraphs": [
+      "L'équipe se construit d'abord sur l'humain : rouler ensemble, progresser ensemble. La performance vient dans un second temps, avec des objectifs collectifs clairs.",
+      "Chaque quinzaine, les social rides partent de Hobby Cycles, à Brest. Ouvertes à tous les niveaux, elles réunissent en moyenne cinquante personnes et jusqu'à soixante-dix les jours de belle affluence.",
+      "SMAL & CO a aussi participé à l'Étape du Tour 2026 avec sept de ses membres."
+    ],
+    "goals": [
+      "Structurer l'équipe de compétition 2027",
+      "Engager des coureurs sur les épreuves régionales FFC",
+      "Faire grandir les social rides et le club Strava",
+      "Organiser des événements cyclistes sous nos couleurs"
+    ],
+    "images": ["road-group", "road-bend", "team-beach", "team-sea"]
+  },
+  "running": {
+    "title": "Running & trail",
+    "lead": "Un second pôle à fort potentiel. Il démarre avec ses premiers coureurs et vise un collectif compétitif, soudé et reconnaissable.",
+    "paragraphs": [
+      "La section running se construit en parallèle du cyclisme, avec ses propres membres et son propre suivi. Route, trail court, trail long : nous cherchons des profils complémentaires.",
+      "Nous recrutons avant tout des personnes motivées. Les résultats individuels existent déjà, l'objectif est de les inscrire dans une dynamique collective."
+    ],
+    "goals": [
+      "Constituer un collectif de coureurs identifiable",
+      "Définir des objectifs individuels et collectifs par athlète",
+      "Créer des tenues running et trail à nos couleurs",
+      "Engager le collectif sur des courses régionales, puis plus ambitieuses",
+      "Imaginer nos propres sorties et rendez-vous running"
+    ],
+    "athletes": [],
+    "images": ["run-310-city", "run-friends", "run-bw-group", "run-310"]
+  }
+}

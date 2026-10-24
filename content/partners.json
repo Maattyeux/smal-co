@@ -1,0 +1,9 @@
+{
+  "intro": "Des entreprises qui croient à un projet sportif local. Chaque partenariat repose sur un échange concret : ce que l'association reçoit, ce que le partenaire gagne.",
+  "partners": [
+    { "id": "hobby-cycles", "name": "Hobby Cycles", "role": "Partenaire du pôle cyclisme", "logo": "hobby-cycles.png", "text": "Vélociste à Brest, Hobby Cycles est le point de départ de nos social rides et la boutique de référence de l'équipe cycliste.", "url": null, "validated": false },
+    { "id": "overstims", "name": "Overstim.s", "role": "Partenaire", "logo": "overstims.png", "text": "Marque française de nutrition sportive, Overstim.s accompagne SMAL & CO depuis octobre 2026.", "url": null, "validated": false },
+    { "id": "pg-tubes", "name": "PG Tubes", "role": "Soutien financier", "logo": "pg-tubes.png", "text": "Distributeur de tuyaux présent dans le Finistère, PG Tubes soutient financièrement l'association.", "url": null, "validated": false }
+  ],
+  "cta": "Votre entreprise peut rejoindre l'aventure. Parlons d'un partenariat qui a du sens pour vous."
+}

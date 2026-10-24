@@ -1,0 +1,19 @@
+{
+  "intro": "SMAL & CO commence par une réunion à quatre, un soir de janvier 2026, à Brest. Neuf mois plus tard, l'association est affiliée à la FFC et organise ses propres rendez-vous.",
+  "timeline": [
+    { "date": "13 janvier 2026", "title": "L'assemblée constitutive", "text": "Quatre amis adoptent les statuts et élisent le premier bureau.", "status": "fait" },
+    { "date": "Janvier 2026", "title": "Déclaration de l'association", "text": "SMAL est déclarée à Brest. SMAL & CO devient son nom d'usage.", "status": "fait" },
+    { "date": "2026", "title": "Les social rides", "text": "Des sorties collectives au départ de Hobby Cycles, à Brest : neuf rendez-vous, en moyenne cinquante participants, jusqu'à soixante-dix.", "status": "fait" },
+    { "date": "2026", "title": "Premières prestations de contenus", "text": "Captation et communication sur des épreuves cyclistes, dont le Trophée Centre Morbihan.", "status": "fait" },
+    { "date": "2026", "title": "Étape du Tour", "text": "Sept membres de SMAL & CO au départ de l'édition 2026.", "status": "fait" },
+    { "date": "16 septembre 2026", "title": "Affiliation à la FFC", "text": "L'association rejoint la Fédération Française de Cyclisme.", "status": "fait" },
+    { "date": "Octobre 2026", "title": "Overstim.s", "text": "Premier partenariat annoncé avec la marque de nutrition sportive.", "status": "fait" },
+    { "date": "2027", "title": "La saison de compétition", "text": "Structurer l'équipe cycliste et engager SMAL & CO sur les épreuves régionales.", "status": "objectif" }
+  ],
+  "founders": [
+    { "name": "Matthieu Bruno", "role": "Président", "scope": "Social rides · Running · Partenariats" },
+    { "name": "Lucas Blonce Lossec", "role": "Secrétaire", "scope": "Communication · Club · Cyclo" },
+    { "name": "Alexis Le Dez", "role": "Trésorier", "scope": "Club · Partenaires · Événements" },
+    { "name": "Maël Guittet Grard", "role": "Responsable", "scope": "Défis · Engagement" }
+  ]
+}
